@@ -49,40 +49,31 @@ activity for the folowing values:
 215 tGravityAccMag-std()
 227 tBodyAccJerkMag-mean()
 228 tBodyAccJerkMag-std()
-
 240 tBodyGyroMag-mean()
 241 tBodyGyroMag-std()
-
 254 tBodyGyroJerkMag-std()
 255 tBodyGyroJerkMag-mad()
-
 266 fBodyAcc-mean()-X
 267 fBodyAcc-mean()-Y
 268 fBodyAcc-mean()-Z
 269 fBodyAcc-std()-X
 270 fBodyAcc-std()-Y
 271 fBodyAcc-std()-Z
-
 345 fBodyAccJerk-mean()-X
 346 fBodyAccJerk-mean()-Y
 347 fBodyAccJerk-mean()-Z
 348 fBodyAccJerk-std()-X
 349 fBodyAccJerk-std()-Y
 350 fBodyAccJerk-std()-Z
-
 424 fBodyGyro-mean()-X
 425 fBodyGyro-mean()-Y
 426 fBodyGyro-mean()-Z
 427 fBodyGyro-std()-X
 428 fBodyGyro-std()-Y
 429 fBodyGyro-std()-Z
-
-
 503 fBodyAccMag-mean()
 504 fBodyAccMag-std()
-
 529 fBodyBodyGyroMag-mean()
 530 fBodyBodyGyroMag-std()
-
 542 fBodyBodyGyroJerkMag-mean()
 543 fBodyBodyGyroJerkMag-std()
